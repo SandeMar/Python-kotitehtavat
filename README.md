@@ -1,1 +1,1 @@
-# Python-kotitehtavat
+# Python-kotitehtävät
